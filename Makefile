@@ -1,6 +1,4 @@
-include .env
-
-name=anonventbot
+name=worldlink
 
 PM2=./node_modules/.bin/pm2
 
