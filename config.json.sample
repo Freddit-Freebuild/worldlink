@@ -1,0 +1,8 @@
+{
+    "channel_webhooks": {
+        "channel_id": "webhook_url",
+        "": ""
+    },
+    "bot_whitelist": [],
+    "bot_token": ""
+}
